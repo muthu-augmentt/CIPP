@@ -8,3 +8,4 @@ jobs:
       - uses: bhermann/issue-volunteer@v0.1.12
         with:
           GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+---
